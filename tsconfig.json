@@ -1,0 +1,10 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "CommonJS",
+    "outDir": "test",
+    "sourceMap": true,
+    "target": "ES2015"
+  },
+  "include": ["**/*.ts"]
+}
